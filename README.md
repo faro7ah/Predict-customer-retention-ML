@@ -37,13 +37,15 @@ In this project, We will use Machine learning models such as  `SGDClassifier`, `
 
 <a id='Results'></a>
 # Results:
+
+![](plot3.jpg)
+
 To conclude, we obtain **KNeighborsClassifier, LogisticRegression, SGDClassifier** recorded accuracy with **83.0%, 85.03%, and 84.52%** respectively after using **GridSearchCV** and **RandomizedSearchCV**. As we have seen above with no significant difference among them.
 
 To compare these models with the Baseline, we illustrate that. Baseline showed the lowest accuracy with 75.97%.
 
 From the previous chart, the Area Under Curve (AUC) for LogisticRegression model LR is showing the best choice rather than K-Nearest Neighbors algorithm KNN.
 
-![](plot3.jpg)
 
 
 
