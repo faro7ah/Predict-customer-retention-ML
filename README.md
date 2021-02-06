@@ -3,7 +3,6 @@
 <li><a href="#Project Motivation">Project Motivation</a></li>
 <li><a href="#EDA">File Descriptions</a></li>
 <li><a href="#Results">Results</a></li>
-<li><a href="#Licensing, Authors, and Acknowledgements">Licensing, Authors, and Acknowledgements</a></li>
 
 
 <a id='Installation'></a>
