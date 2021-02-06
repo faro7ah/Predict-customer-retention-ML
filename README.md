@@ -30,8 +30,8 @@ In this project, We will use Machine learning models such as  `SGDClassifier`, `
 - Generally, people can be seen working for **30 hours to 40 hours per week** for the private work class.
 - Most of the relationships shown were **Not-in-family** and the fewest were **Other-relative by 3%**.
 
-[<img width="250" height="200" src="plot1.jpg">]
-[<img width="250" height="200" src="plot2.jpg">]
+<img width="600" height="500" src="plot1.jpg">
+<img width="600" height="500" src="plot2.jpg">
 
 
 
