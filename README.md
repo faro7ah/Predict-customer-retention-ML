@@ -1,4 +1,4 @@
-# income_bracket_prediction ML using SGDClassifier, KNeighborsRegressor, and LogisticRegression
+# Income_bracket_prediction ML using SGDClassifier, KNeighborsRegressor, and LogisticRegression
 <li><a href="#Installation">Installation</a></li>
 <li><a href="#Project Motivation">Project Motivation</a></li>
 <li><a href="#EDA">EDA</a></li>
